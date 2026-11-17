@@ -1,6 +1,7 @@
 # **Outline**
 *Lynden Miles MACS 401 Final Project F26*
 ### Examining the impact of persistent organic pollutants on reproductive fitness in the Southern Resident killer whales (Orcinus orca)
+![A SRKW mother and her young calf](whale1.png)
 
 ### Goals
 ##### Overall
@@ -21,7 +22,6 @@ To complete my project, I will be focusing on two things: data visualization opt
 
 ### Take-aways & Conclusions 
 I haven't learned much from my data since this is an ongoing project for me and I am specifically using this new dataset as an expansion of my old one, but it is interesting to consider how many variables there are and how to account for them in things like statistics. I hope the graphs and visualizations I produce from this project help me better display my conclusions while still being aware that there are many confounding variables that I was not able to take into account. 
-If you have lerned new things from your data or from the process, include them here.
 
 ### References
 Dr. Michael Weiss, Center for Whale Research
